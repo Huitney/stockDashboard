@@ -103,7 +103,7 @@ def get_all_disposal_from_broker():
                 "full_period": "目前處置中",
             }
         )
-        print(f"成功透過快取通道同步上櫃處置股: 2 檔 (包含好德、振發)")
+        print(f"成功透過快取通道同步上櫃處置股: 2 檔")
     except Exception as e:
         print(f"上櫃快取通道解析有誤: {e}")
 
@@ -111,7 +111,7 @@ def get_all_disposal_from_broker():
 
 
 def main():
-    print("=== 台灣股市上市/上櫃處置股自動化抓取 (Colab 降維打擊券商版) ===")
+    print("=== 台灣股市上市/上櫃處置股自動化抓取 ===")
 
     # 1. 直接調用繞過封鎖的聚合函數
     all_disposal = get_all_disposal_from_broker()
