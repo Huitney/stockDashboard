@@ -24,7 +24,7 @@ def get_live_meetings():
         result = df[['日期', '公司']].copy()
 
         # orient="records" 會產出一份結構化的 List of Dicts
-        result.to_json("data_meetings.json", orient="records", force_ascii=False, indent=4)
+        result.to_json("data/data_meetings.json", orient="records", force_ascii=False, indent=4)
 
         return result
 

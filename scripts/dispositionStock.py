@@ -124,7 +124,7 @@ def main():
     }
 
     # 3. 輸出成 JSON 檔案
-    with open("data.json", "w", encoding="utf-8") as f:
+    with open("data/data.json", "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
 
     print(f"\n🎉 完美過關！共整合 {len(all_disposal)} 檔處置股，已順利寫入 data.json")
