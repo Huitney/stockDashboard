@@ -1,4 +1,3 @@
-# .github/workflows/daily-run.yml
 name: Daily Python Script
 
 on:
