@@ -25,7 +25,10 @@ def get_live_meetings():
         result = df[['日期', '公司']].copy()
         
         # 將 DataFrame 轉成 list of dict
-        output_data = {result}
+        output_data = {
+            "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "company_list": result,
+        }
 
 
         import os

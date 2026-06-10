@@ -112,7 +112,7 @@ const investorConference = defineComponent({
   </div>`,
   data() {
     return {
-      list : investorConferenceList
+      list : investorConferenceList.company_list
     }
   },
 });
