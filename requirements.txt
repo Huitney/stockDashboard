@@ -1,7 +1,0 @@
-playwright
-curl_cffi
-beautifulsoup4
-yfinance
-feedparser
-lxml
-html5lib
