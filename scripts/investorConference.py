@@ -23,8 +23,8 @@ def get_live_meetings():
         # 這裡根據網站結構進行清理
         result = df[['日期', '公司']].copy()
 
-        # orient="records" 會產出一份結構化的 List of Dicts
-        result.to_json("src/data/data_meetings.json", orient="records", force_ascii=False, indent=4)
+        with open("src/data/data_meetings.json", "w", encoding="utf-8") as f:
+            json.dump(output_data, f, ensure_ascii=False, indent=2)
 
         return result
 
