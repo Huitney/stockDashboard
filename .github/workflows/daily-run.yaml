@@ -52,3 +52,7 @@ jobs:
           git add src/data/*
           git commit -m "update data"
           git push
+          git checkout gh-pages
+          git merge master
+          git push origin gh-pages
+          git checkout master

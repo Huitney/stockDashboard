@@ -112,7 +112,8 @@ const investorConference = defineComponent({
   </div>`,
   data() {
     return {
-      list : investorConferenceList.company_list
+      list : investorConferenceList.company_list,
+	  lastUpdated : dispositionStockList.last_updated,
     }
   },
 });
@@ -145,20 +146,7 @@ const stockIndex = defineComponent({
 	  lastUpdated : stockIndexList.last_updated
     }
   },
-  methods: {
-    getMatchTime(item) {
-      onst text = item.details || ''
-
-	  if (text.includes('每五分鐘')) return '5分鐘'
-	  if (text.includes('每二十分鐘')) return '20分鐘'
-	  if (text.includes('每六十分鐘')) return '60分鐘'
-	  
-	  // fallback（有些寫在 measures）
-	  if (item.measures?.includes('5分鐘')) return '5分鐘'
-
-	  return '一般撮合'
-    },
-  },
+  
 });
 
 
