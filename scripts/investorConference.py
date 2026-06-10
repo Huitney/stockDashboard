@@ -1,4 +1,5 @@
 import requests
+import json 
 from bs4 import BeautifulSoup
 import pandas as pd
 
@@ -22,7 +23,12 @@ def get_live_meetings():
         # 假設表格欄位名稱為：日期、時間、公司、地點...
         # 這裡根據網站結構進行清理
         result = df[['日期', '公司']].copy()
+        
+        # 將 DataFrame 轉成 list of dict
+        output_data = result.to_dict(orient="records")
 
+        import os
+        os.makedirs("src/data", exist_ok=True)  # 確保資料夾存在
         with open("src/data/data_meetings.json", "w", encoding="utf-8") as f:
             json.dump(output_data, f, ensure_ascii=False, indent=2)
 
