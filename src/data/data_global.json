@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 13:03:20",
+  "last_updated": "2026-06-10 13:08:29",
   "market_indices": {
     "台股": {
       "symbol": "^TWII",
@@ -8,16 +8,16 @@
       "price_change": -1478.9,
       "price_change_percent": "-3.31%",
       "status_signal": "🔻",
-      "last_trade_time": "2026-06-10 13:03:19"
+      "last_trade_time": "2026-06-10 13:08:29"
     },
     "美股": {
       "symbol": "NQ=F",
       "item_name": "美股-那斯達克期貨",
-      "current_price": 28888.75,
-      "price_change": -228.25,
-      "price_change_percent": "-0.78%",
+      "current_price": 28861.0,
+      "price_change": -256.0,
+      "price_change_percent": "-0.88%",
       "status_signal": "🔻",
-      "last_trade_time": "2026-06-10 13:03:19"
+      "last_trade_time": "2026-06-10 13:08:29"
     },
     "日股": {
       "symbol": "^N225",
@@ -26,7 +26,7 @@
       "price_change": -1237.36,
       "price_change_percent": "-1.89%",
       "status_signal": "🔻",
-      "last_trade_time": "2026-06-10 13:03:20"
+      "last_trade_time": "2026-06-10 13:08:29"
     },
     "韓股": {
       "symbol": "^KS11",
@@ -35,7 +35,7 @@
       "price_change": -366.11,
       "price_change_percent": "-4.52%",
       "status_signal": "🔻",
-      "last_trade_time": "2026-06-10 13:03:20"
+      "last_trade_time": "2026-06-10 13:08:29"
     }
   }
 }
