@@ -58,12 +58,18 @@ jobs:
         run: |
           git fetch origin
 
-          # 切換到 gh-pages，本地不存在就建立
-          git checkout -B gh-pages origin/gh-pages || git checkout --orphan gh-page
-          # 從 master 拿 data（覆蓋現有資料夾）
-          git checkout master -- src/dat
-          
+          # 切換 gh-pages（沒有就建立 tracking branch）
+          git checkout -B gh-pages origin/gh-pages
+
+          # 先同步遠端（避免 rejected）
+          git pull origin gh-pages --rebase || true
+
+          # 只更新 data，不動其他檔案
+          git checkout master -- src/data
+
           git add src/data
+
           git commit -m "sync data to gh-pages" || echo "no changes"
 
+          # 再 push（保證 fast-forward）
           git push origin gh-pages
