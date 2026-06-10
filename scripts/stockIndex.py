@@ -71,7 +71,7 @@ def main():
         "market_indices": market_data,
     }
 
-    with open("data/data_global.json", "w", encoding="utf-8") as f:
+    with open("src/data/data_global.json", "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
 
     print("\n================== 📊 全球市場即時戰報 ==================")
