@@ -30,8 +30,8 @@ jobs:
         
       - name: Install Playwright browser
         run: |
-          playwright install chromium
-          playwright install-deps
+          pip install playwright
+          python -m playwright install --with-deps chromium
 
       - name: Run scripts
         run: |
