@@ -58,15 +58,11 @@ jobs:
         run: |
           git fetch origin
 
-          # 切或建立 gh-pages
-          git checkout -B gh-pages origin/gh-pages || git checkout --orphan gh-pages
-
-          # 清空舊內容（避免殘留）
-          git rm -rf . || true
-
-          # 從 master 拿 data
-          git checkout master -- src/data
-
+          # 切換到 gh-pages，本地不存在就建立
+          git checkout -B gh-pages origin/gh-pages || git checkout --orphan gh-page
+          # 從 master 拿 data（覆蓋現有資料夾）
+          git checkout master -- src/dat
+          
           git add src/data
           git commit -m "sync data to gh-pages" || echo "no changes"
 
