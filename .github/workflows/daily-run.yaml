@@ -2,10 +2,9 @@ name: Daily Python Script
 
 on:
   schedule:
-    # UTC時間每天 00:00 執行
     - cron: '0 0 * * *'
-  workflow_dispatch: # 允許手動觸發
-  
+  workflow_dispatch:
+
 permissions:
   contents: write
 
@@ -14,56 +13,61 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. 取得 repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      # 2. 設定 Python 環境
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      # 3. 安裝依賴
       - name: Install dependencies
         run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          fi
-        
+          pip install -r requirements.txt || true
+
       - name: Install Playwright browser
         run: |
           playwright install chromium
           playwright install-deps
 
-      # 4. 執行 Python 腳本
-      - name: Run all scripts in folder
+      - name: Run scripts
         run: |
           for f in scripts/*.py; do
             echo "Running $f"
             python "$f"
           done
-          
-      # 5. 推上gtihub
-      - name: push back github
+
+      # =========================
+      # commit master
+      # =========================
+      - name: Commit to master
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add src/data/*
+
           git commit -m "update data" || echo "no changes"
           git push origin master
 
-          # 如果 gh-pages 不存在就建立
-          if ! git ls-remote --exit-code --heads origin gh-pages; then
-            git checkout --orphan gh-pages
-            git rm -rf .
-            git commit --allow-empty -m "init gh-pages"
-            git push origin gh-pages
-            git checkout master
-          fi
+      # =========================
+      # sync gh-pages (SAFE MODE)
+      # =========================
+      - name: Deploy to gh-pages
+        run: |
+          git fetch origin
 
-          # 將 master 合併到 gh-pages
-          git checkout gh-pages
-          git merge master -m "merge master updates"
+          # 切或建立 gh-pages
+          git checkout -B gh-pages origin/gh-pages || git checkout --orphan gh-pages
+
+          # 清空舊內容（避免殘留）
+          git rm -rf . || true
+
+          # 從 master 拿 data
+          git checkout master -- src/data
+
+          git add src/data
+          git commit -m "sync data to gh-pages" || echo "no changes"
+
           git push origin gh-pages
-          git checkout master
