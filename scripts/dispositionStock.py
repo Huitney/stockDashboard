@@ -20,8 +20,8 @@ def get_all_disposal_from_broker():
                     "market": "上市",
                     "code": row[2].strip(),
                     "name": row[3].strip(),
-                    "start_date": row[6].split('~')[0].strip(),
-                    "end_date": row[6].split('~')[1].strip() if '~' in row[6] else row[6].strip(),
+                    "start_date": row[6].split(r'[~～\-–]')[0].strip(),
+                    "end_date": row[6].split(r'[~～\-–]')[1].strip(),
                     "condition": row[5].strip(),
                     "measures": row[7].strip(),
                     "details": row[8].strip(),
@@ -40,19 +40,18 @@ def get_tpex_disposal():
         data = r.json()
         results = []
         for item in data:
-            # 民國轉西元
-            roc_date = item.get("Date", "")
-            ad_date = f"{int(roc_date[:3])+1911}/{roc_date[3:5]}/{roc_date[5:]}" if len(roc_date)>=7 else roc_date
-
+            period = item.get("DispositionPeriod", "")
+            start_date, *rest = period.split("~", 1)
+            end_date = rest[0] if rest else start_date
+            
             # 統一與上市相同的欄位格式
             results.append({
                 "market": "上櫃",
                 "code": item.get("SecuritiesCompanyCode", ""),
                 "name": item.get("CompanyName", ""),
-                "start_date": ad_date,
-                "end_date": "請見詳情",
+                "start_date": start_date,
+                "end_date": end_date,
                 "condition": "櫃買中心公告",
-                "measures": item.get("DispositionPeriod", ""),
                 "details": item.get("DispositionReasons", ""),
                 "full_period": item.get("DispositionPeriod", "")
             })
@@ -78,7 +77,7 @@ def main():
     }
 
     # 3. 輸出 JSON
-    with open("src/data/data.json", "w", encoding="utf-8") as f:
+    with open("data/data.json", "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
 
     print(f"\n🎉 完美過關！共整合 {len(all_disposal)} 檔處置股，已順利寫入 data.json")

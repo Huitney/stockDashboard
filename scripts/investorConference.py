@@ -34,13 +34,13 @@ def get_live_meetings():
         }
 
         # 確保資料夾存在
-        os.makedirs("src/data", exist_ok=True)
+        os.makedirs("data", exist_ok=True)
 
         # 寫入 JSON
-        with open("src/data/data_meetings.json", "w", encoding="utf-8") as f:
+        with open("data/data_meetings.json", "w", encoding="utf-8") as f:
             json.dump(output_data, f, ensure_ascii=False, indent=2)
 
-        print("檔案寫入成功:", os.path.exists("src/data/data_meetings.json"))
+        print("檔案寫入成功:", os.path.exists("data/data_meetings.json"))
 
         return result
 

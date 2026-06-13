@@ -9,7 +9,7 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./src/css/styles.css" />
-    <script src="https://unpkg.com/vue@next" defer></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js" defer></script>
     <script src="./src/app.js" defer></script>
   </head>
   <body>
@@ -19,11 +19,13 @@
 	<section>
       <div id="stockIndex"></div>
     </section>
-    <section>
-      <div id="dispositionStock"></div>
-    </section>
-	<section>
-      <div id="investorConference"></div>
-    </section>
+	<div class="container">
+		<section class="left">
+		  <div id="dispositionStock"></div>
+		</section>
+		<section class="right">
+		  <div id="investorConference"></div>
+		</section>
+	</div>
   </body>
 </html>

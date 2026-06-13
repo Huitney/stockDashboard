@@ -1,9 +1,9 @@
 const { createApp, defineComponent } = Vue;
 
 const files = [
-  './data/data.json',
-  './data/data_meetings.json',
-  './data/data_global.json'
+  '/data/data.json',
+  '/data/data_meetings.json',
+  '/data/data_global.json'
 ];
 
 Promise.all(files.map(f => fetch(f).then(r => r.json())))
@@ -16,11 +16,11 @@ Promise.all(files.map(f => fetch(f).then(r => r.json())))
       template: `
       <div class="container">
         <h2>處置股票清單</h2>
-
+		<br>
         <p v-if="lastUpdated">
           更新時間：{{ lastUpdated }} ｜ 共 {{ count }} 筆
         </p>
-
+		<br>
         <table border="1" cellpadding="6">
           <thead>
             <tr>
@@ -100,11 +100,11 @@ Promise.all(files.map(f => fetch(f).then(r => r.json())))
       template: `
       <div class="container">
         <h2>法說會列表</h2>
-
+		<br>
         <p v-if="lastUpdated">
           更新時間：{{ lastUpdated }}
         </p>
-
+		<br>
         <table border="1" cellpadding="6">
           <thead>
             <tr>
@@ -139,11 +139,11 @@ Promise.all(files.map(f => fetch(f).then(r => r.json())))
       template: `
       <div class="container">
         <h2>指數</h2>
-
+		<br>
         <p v-if="lastUpdated">
           更新時間：{{ lastUpdated }}
         </p>
-
+		<br>
         <table border="1" cellpadding="6">
           <thead>
             <tr>
