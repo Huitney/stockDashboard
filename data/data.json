@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-14 14:03:22",
-  "disposition_count": 63,
+  "last_updated": "2026-06-15 17:15:19",
+  "disposition_count": 65,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "49793",
+      "name": "華星光三",
+      "start_date": "1150616",
+      "end_date": "1150630",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150616~1150630"
+    },
+    {
+      "market": "上櫃",
+      "code": "80212",
+      "name": "尖點二",
+      "start_date": "1150616",
+      "end_date": "1150630",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150616~1150630"
+    },
     {
       "market": "上櫃",
       "code": "4402",
