@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-15 17:15:19",
-  "disposition_count": 65,
+  "last_updated": "2026-06-16 16:53:02",
+  "disposition_count": 63,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "31672",
+      "name": "大量二",
+      "start_date": "1150617",
+      "end_date": "1150701",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150617~1150701"
+    },
+    {
+      "market": "上櫃",
+      "code": "6173",
+      "name": "信昌電",
+      "start_date": "1150617",
+      "end_date": "1150701",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150617~1150701"
+    },
+    {
+      "market": "上櫃",
+      "code": "6187",
+      "name": "萬潤",
+      "start_date": "1150617",
+      "end_date": "1150701",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1150617~1150701"
+    },
+    {
+      "market": "上櫃",
+      "code": "6241",
+      "name": "鑫永洋",
+      "start_date": "1150617",
+      "end_date": "1150701",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150617~1150701"
+    },
+    {
+      "market": "上櫃",
+      "code": "8291",
+      "name": "尚茂",
+      "start_date": "1150617",
+      "end_date": "1150701",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150617~1150701"
+    },
     {
       "market": "上櫃",
       "code": "49793",
@@ -581,76 +631,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150602~1150615"
-    },
-    {
-      "market": "上櫃",
-      "code": "24642",
-      "name": "盟立二",
-      "start_date": "1150601",
-      "end_date": "1150612",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150601~1150612"
-    },
-    {
-      "market": "上櫃",
-      "code": "61827",
-      "name": "合晶七",
-      "start_date": "1150601",
-      "end_date": "1150612",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150601~1150612"
-    },
-    {
-      "market": "上櫃",
-      "code": "6291",
-      "name": "沛亨",
-      "start_date": "1150601",
-      "end_date": "1150612",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150601~1150612"
-    },
-    {
-      "market": "上櫃",
-      "code": "6488",
-      "name": "環球晶",
-      "start_date": "1150601",
-      "end_date": "1150612",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150601~1150612"
-    },
-    {
-      "market": "上櫃",
-      "code": "705031",
-      "name": "訊聯群益5A購02",
-      "start_date": "1150601",
-      "end_date": "1150612",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150601~1150612"
-    },
-    {
-      "market": "上櫃",
-      "code": "76101",
-      "name": "聯友金屬一創",
-      "start_date": "1150601",
-      "end_date": "1150612",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150601~1150612"
-    },
-    {
-      "market": "上櫃",
-      "code": "7828",
-      "name": "創新服務",
-      "start_date": "1150601",
-      "end_date": "1150612",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150601~1150612"
     }
   ]
 }
