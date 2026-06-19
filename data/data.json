@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18 15:25:38",
-  "disposition_count": 66,
+  "last_updated": "2026-06-19 15:18:03",
+  "disposition_count": 59,
   "disposition_list": [
     {
       "market": "上櫃",
@@ -591,76 +591,6 @@
       "condition": "櫃買中心公告",
       "details": "連續5個營業日",
       "full_period": "1150605~1150618"
-    },
-    {
-      "market": "上櫃",
-      "code": "33466",
-      "name": "麗清六",
-      "start_date": "1150604",
-      "end_date": "1150617",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150604~1150617"
-    },
-    {
-      "market": "上櫃",
-      "code": "3556",
-      "name": "禾瑞亞",
-      "start_date": "1150604",
-      "end_date": "1150617",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150604~1150617"
-    },
-    {
-      "market": "上櫃",
-      "code": "6548",
-      "name": "長科*",
-      "start_date": "1150604",
-      "end_date": "1150617",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150604~1150617"
-    },
-    {
-      "market": "上櫃",
-      "code": "705031",
-      "name": "訊聯群益5A購02",
-      "start_date": "1150604",
-      "end_date": "1150617",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150604~1150617"
-    },
-    {
-      "market": "上櫃",
-      "code": "76101",
-      "name": "聯友金屬一創",
-      "start_date": "1150604",
-      "end_date": "1150617",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150604~1150617"
-    },
-    {
-      "market": "上櫃",
-      "code": "7709",
-      "name": "榮田",
-      "start_date": "1150604",
-      "end_date": "1150617",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150604~1150617"
-    },
-    {
-      "market": "上櫃",
-      "code": "8277",
-      "name": "商丞",
-      "start_date": "1150604",
-      "end_date": "1150617",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150604~1150617"
     }
   ]
 }
