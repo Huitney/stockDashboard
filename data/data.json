@@ -1,5 +1,676 @@
 {
-  "last_updated": "2026-06-22 16:57:47",
-  "disposition_count": 0,
-  "disposition_list": []
+  "last_updated": "2026-06-23 14:49:06",
+  "disposition_count": 67,
+  "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "2061",
+      "name": "風青",
+      "start_date": "1150624",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150624~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "3624",
+      "name": "光頡",
+      "start_date": "1150624",
+      "end_date": "1150709",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日及沖銷標準",
+      "full_period": "1150624~1150709"
+    },
+    {
+      "market": "上櫃",
+      "code": "4923",
+      "name": "力士",
+      "start_date": "1150624",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150624~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "49231",
+      "name": "力士一",
+      "start_date": "1150624",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150624~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "5227",
+      "name": "立凱-KY",
+      "start_date": "1150624",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150624~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "5468",
+      "name": "凱鈺",
+      "start_date": "1150624",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150624~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "6693",
+      "name": "廣閎科",
+      "start_date": "1150624",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150624~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "707059",
+      "name": "健亞永豐5B購01",
+      "start_date": "1150624",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150624~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "76101",
+      "name": "聯友金屬一創",
+      "start_date": "1150624",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150624~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "8096",
+      "name": "擎亞",
+      "start_date": "1150624",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1150624~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "89964",
+      "name": "高力四",
+      "start_date": "1150624",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150624~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "72657U",
+      "name": "家登群益56售04",
+      "start_date": "1150623",
+      "end_date": "1150706",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150623~1150706"
+    },
+    {
+      "market": "上櫃",
+      "code": "24552",
+      "name": "全新二",
+      "start_date": "1150622",
+      "end_date": "1150703",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150622~1150703"
+    },
+    {
+      "market": "上櫃",
+      "code": "24553",
+      "name": "全新三",
+      "start_date": "1150622",
+      "end_date": "1150703",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150622~1150703"
+    },
+    {
+      "market": "上櫃",
+      "code": "3163",
+      "name": "波若威",
+      "start_date": "1150622",
+      "end_date": "1150703",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1150622~1150703"
+    },
+    {
+      "market": "上櫃",
+      "code": "3441",
+      "name": "聯一光",
+      "start_date": "1150622",
+      "end_date": "1150707",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日及沖銷標準",
+      "full_period": "1150622~1150707"
+    },
+    {
+      "market": "上櫃",
+      "code": "61827",
+      "name": "合晶七",
+      "start_date": "1150622",
+      "end_date": "1150703",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150622~1150703"
+    },
+    {
+      "market": "上櫃",
+      "code": "61828",
+      "name": "合晶八",
+      "start_date": "1150622",
+      "end_date": "1150703",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150622~1150703"
+    },
+    {
+      "market": "上櫃",
+      "code": "6488",
+      "name": "環球晶",
+      "start_date": "1150622",
+      "end_date": "1150703",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150622~1150703"
+    },
+    {
+      "market": "上櫃",
+      "code": "3285",
+      "name": "微端",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "4556",
+      "name": "旭然",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "4991",
+      "name": "環宇-KY",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "5227",
+      "name": "立凱-KY",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "5468",
+      "name": "凱鈺",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "6613",
+      "name": "朋億*",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "7828",
+      "name": "創新服務",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "8027",
+      "name": "鈦昇",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "80273",
+      "name": "鈦昇三",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "8042",
+      "name": "金山電",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "80426",
+      "name": "金山電六",
+      "start_date": "1150618",
+      "end_date": "1150702",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150618~1150702"
+    },
+    {
+      "market": "上櫃",
+      "code": "31672",
+      "name": "大量二",
+      "start_date": "1150617",
+      "end_date": "1150701",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150617~1150701"
+    },
+    {
+      "market": "上櫃",
+      "code": "6173",
+      "name": "信昌電",
+      "start_date": "1150617",
+      "end_date": "1150701",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150617~1150701"
+    },
+    {
+      "market": "上櫃",
+      "code": "6187",
+      "name": "萬潤",
+      "start_date": "1150617",
+      "end_date": "1150701",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1150617~1150701"
+    },
+    {
+      "market": "上櫃",
+      "code": "6241",
+      "name": "鑫永洋",
+      "start_date": "1150617",
+      "end_date": "1150701",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150617~1150701"
+    },
+    {
+      "market": "上櫃",
+      "code": "8291",
+      "name": "尚茂",
+      "start_date": "1150617",
+      "end_date": "1150701",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150617~1150701"
+    },
+    {
+      "market": "上櫃",
+      "code": "49793",
+      "name": "華星光三",
+      "start_date": "1150616",
+      "end_date": "1150630",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150616~1150630"
+    },
+    {
+      "market": "上櫃",
+      "code": "80212",
+      "name": "尖點二",
+      "start_date": "1150616",
+      "end_date": "1150630",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150616~1150630"
+    },
+    {
+      "market": "上櫃",
+      "code": "4402",
+      "name": "郡都開發",
+      "start_date": "1150615",
+      "end_date": "1150629",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150615~1150629"
+    },
+    {
+      "market": "上櫃",
+      "code": "4556",
+      "name": "旭然",
+      "start_date": "1150615",
+      "end_date": "1150629",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150615~1150629"
+    },
+    {
+      "market": "上櫃",
+      "code": "5345",
+      "name": "馥鴻",
+      "start_date": "1150615",
+      "end_date": "1150629",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150615~1150629"
+    },
+    {
+      "market": "上櫃",
+      "code": "68301",
+      "name": "汎銓一",
+      "start_date": "1150615",
+      "end_date": "1150629",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150615~1150629"
+    },
+    {
+      "market": "上櫃",
+      "code": "4542",
+      "name": "科嶠",
+      "start_date": "1150612",
+      "end_date": "1150626",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150612~1150626"
+    },
+    {
+      "market": "上櫃",
+      "code": "45421",
+      "name": "科嶠一",
+      "start_date": "1150612",
+      "end_date": "1150626",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150612~1150626"
+    },
+    {
+      "market": "上櫃",
+      "code": "5321",
+      "name": "美而快",
+      "start_date": "1150612",
+      "end_date": "1150626",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150612~1150626"
+    },
+    {
+      "market": "上櫃",
+      "code": "53211",
+      "name": "美而快一",
+      "start_date": "1150612",
+      "end_date": "1150626",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150612~1150626"
+    },
+    {
+      "market": "上櫃",
+      "code": "6127",
+      "name": "九豪",
+      "start_date": "1150612",
+      "end_date": "1150626",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1150612~1150626"
+    },
+    {
+      "market": "上櫃",
+      "code": "68901",
+      "name": "來億一KY",
+      "start_date": "1150612",
+      "end_date": "1150626",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150612~1150626"
+    },
+    {
+      "market": "上櫃",
+      "code": "68902",
+      "name": "來億二KY",
+      "start_date": "1150612",
+      "end_date": "1150626",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150612~1150626"
+    },
+    {
+      "market": "上櫃",
+      "code": "724481",
+      "name": "正基統一59購02",
+      "start_date": "1150612",
+      "end_date": "1150626",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150612~1150626"
+    },
+    {
+      "market": "上櫃",
+      "code": "8291",
+      "name": "尚茂",
+      "start_date": "1150612",
+      "end_date": "1150626",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150612~1150626"
+    },
+    {
+      "market": "上櫃",
+      "code": "3147",
+      "name": "大綜",
+      "start_date": "1150611",
+      "end_date": "1150625",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150611~1150625"
+    },
+    {
+      "market": "上櫃",
+      "code": "3581",
+      "name": "博磊",
+      "start_date": "1150611",
+      "end_date": "1150625",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150611~1150625"
+    },
+    {
+      "market": "上櫃",
+      "code": "731874",
+      "name": "茂訊統一59購01",
+      "start_date": "1150611",
+      "end_date": "1150625",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150611~1150625"
+    },
+    {
+      "market": "上櫃",
+      "code": "3114",
+      "name": "好德",
+      "start_date": "1150609",
+      "end_date": "1150623",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150609~1150623"
+    },
+    {
+      "market": "上櫃",
+      "code": "5426",
+      "name": "振發",
+      "start_date": "1150609",
+      "end_date": "1150623",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150609~1150623"
+    },
+    {
+      "market": "上櫃",
+      "code": "68901",
+      "name": "來億一KY",
+      "start_date": "1150609",
+      "end_date": "1150623",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150609~1150623"
+    },
+    {
+      "market": "上櫃",
+      "code": "68902",
+      "name": "來億二KY",
+      "start_date": "1150609",
+      "end_date": "1150623",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150609~1150623"
+    },
+    {
+      "market": "上櫃",
+      "code": "76101",
+      "name": "聯友金屬一創",
+      "start_date": "1150609",
+      "end_date": "1150623",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150609~1150623"
+    },
+    {
+      "market": "上櫃",
+      "code": "8291",
+      "name": "尚茂",
+      "start_date": "1150609",
+      "end_date": "1150623",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150609~1150623"
+    },
+    {
+      "market": "上櫃",
+      "code": "3147",
+      "name": "大綜",
+      "start_date": "1150608",
+      "end_date": "1150622",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150608~1150622"
+    },
+    {
+      "market": "上櫃",
+      "code": "3581",
+      "name": "博磊",
+      "start_date": "1150608",
+      "end_date": "1150622",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150608~1150622"
+    },
+    {
+      "market": "上櫃",
+      "code": "5701",
+      "name": "劍湖山",
+      "start_date": "1150608",
+      "end_date": "1150622",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150608~1150622"
+    },
+    {
+      "market": "上櫃",
+      "code": "60152",
+      "name": "宏遠證二",
+      "start_date": "1150608",
+      "end_date": "1150622",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150608~1150622"
+    },
+    {
+      "market": "上櫃",
+      "code": "62075",
+      "name": "雷科五",
+      "start_date": "1150608",
+      "end_date": "1150622",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150608~1150622"
+    },
+    {
+      "market": "上櫃",
+      "code": "62076",
+      "name": "雷科六",
+      "start_date": "1150608",
+      "end_date": "1150622",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150608~1150622"
+    },
+    {
+      "market": "上櫃",
+      "code": "64422",
+      "name": "光聖二",
+      "start_date": "1150608",
+      "end_date": "1150622",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150608~1150622"
+    },
+    {
+      "market": "上櫃",
+      "code": "64423",
+      "name": "光聖三",
+      "start_date": "1150608",
+      "end_date": "1150622",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150608~1150622"
+    }
+  ]
 }
