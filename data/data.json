@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-24 14:30:43",
-  "disposition_count": 62,
+  "last_updated": "2026-06-25 14:33:58",
+  "disposition_count": 59,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "5425",
+      "name": "台半",
+      "start_date": "1150626",
+      "end_date": "1150709",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1150626~1150709"
+    },
+    {
+      "market": "上櫃",
+      "code": "5489",
+      "name": "彩富",
+      "start_date": "1150626",
+      "end_date": "1150709",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150626~1150709"
+    },
+    {
+      "market": "上櫃",
+      "code": "6620",
+      "name": "漢達",
+      "start_date": "1150626",
+      "end_date": "1150709",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150626~1150709"
+    },
     {
       "market": "上櫃",
       "code": "3675",
@@ -561,66 +591,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150611~1150625"
-    },
-    {
-      "market": "上櫃",
-      "code": "3114",
-      "name": "好德",
-      "start_date": "1150609",
-      "end_date": "1150623",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150609~1150623"
-    },
-    {
-      "market": "上櫃",
-      "code": "5426",
-      "name": "振發",
-      "start_date": "1150609",
-      "end_date": "1150623",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150609~1150623"
-    },
-    {
-      "market": "上櫃",
-      "code": "68901",
-      "name": "來億一KY",
-      "start_date": "1150609",
-      "end_date": "1150623",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150609~1150623"
-    },
-    {
-      "market": "上櫃",
-      "code": "68902",
-      "name": "來億二KY",
-      "start_date": "1150609",
-      "end_date": "1150623",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150609~1150623"
-    },
-    {
-      "market": "上櫃",
-      "code": "76101",
-      "name": "聯友金屬一創",
-      "start_date": "1150609",
-      "end_date": "1150623",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150609~1150623"
-    },
-    {
-      "market": "上櫃",
-      "code": "8291",
-      "name": "尚茂",
-      "start_date": "1150609",
-      "end_date": "1150623",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150609~1150623"
     }
   ]
 }
