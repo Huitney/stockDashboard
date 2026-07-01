@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30 14:19:03",
-  "disposition_count": 57,
+  "last_updated": "2026-07-01 14:36:02",
+  "disposition_count": 53,
   "disposition_list": [
     {
       "market": "上櫃",
@@ -531,46 +531,6 @@
       "condition": "櫃買中心公告",
       "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
       "full_period": "1150616~1150630"
-    },
-    {
-      "market": "上櫃",
-      "code": "4402",
-      "name": "郡都開發",
-      "start_date": "1150615",
-      "end_date": "1150629",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150615~1150629"
-    },
-    {
-      "market": "上櫃",
-      "code": "4556",
-      "name": "旭然",
-      "start_date": "1150615",
-      "end_date": "1150629",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150615~1150629"
-    },
-    {
-      "market": "上櫃",
-      "code": "5345",
-      "name": "馥鴻",
-      "start_date": "1150615",
-      "end_date": "1150629",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150615~1150629"
-    },
-    {
-      "market": "上櫃",
-      "code": "68301",
-      "name": "汎銓一",
-      "start_date": "1150615",
-      "end_date": "1150629",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150615~1150629"
     }
   ]
 }
