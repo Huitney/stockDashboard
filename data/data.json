@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-05 13:39:20",
-  "disposition_count": 39,
+  "last_updated": "2026-07-06 15:33:00",
+  "disposition_count": 41,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "61828",
+      "name": "合晶八",
+      "start_date": "1150707",
+      "end_date": "1150720",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150707~1150720"
+    },
+    {
+      "market": "上櫃",
+      "code": "66722",
+      "name": "騰輝電子二KY",
+      "start_date": "1150707",
+      "end_date": "1150720",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1150707~1150720"
+    },
     {
       "market": "上櫃",
       "code": "3147",
