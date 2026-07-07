@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-06 15:33:00",
-  "disposition_count": 41,
+  "last_updated": "2026-07-07 14:34:08",
+  "disposition_count": 37,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "61827",
+      "name": "合晶七",
+      "start_date": "1150708",
+      "end_date": "1150721",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150708~1150721"
+    },
+    {
+      "market": "上櫃",
+      "code": "6617",
+      "name": "共信-KY",
+      "start_date": "1150708",
+      "end_date": "1150721",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150708~1150721"
+    },
     {
       "market": "上櫃",
       "code": "61828",
@@ -344,36 +364,6 @@
     },
     {
       "market": "上櫃",
-      "code": "24552",
-      "name": "全新二",
-      "start_date": "1150622",
-      "end_date": "1150703",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150622~1150703"
-    },
-    {
-      "market": "上櫃",
-      "code": "24553",
-      "name": "全新三",
-      "start_date": "1150622",
-      "end_date": "1150703",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150622~1150703"
-    },
-    {
-      "market": "上櫃",
-      "code": "3163",
-      "name": "波若威",
-      "start_date": "1150622",
-      "end_date": "1150703",
-      "condition": "櫃買中心公告",
-      "details": "最近10個營業日內有6個營業日",
-      "full_period": "1150622~1150703"
-    },
-    {
-      "market": "上櫃",
       "code": "3441",
       "name": "聯一光",
       "start_date": "1150622",
@@ -381,36 +371,6 @@
       "condition": "櫃買中心公告",
       "details": "連續3個營業日及沖銷標準",
       "full_period": "1150622~1150707"
-    },
-    {
-      "market": "上櫃",
-      "code": "61827",
-      "name": "合晶七",
-      "start_date": "1150622",
-      "end_date": "1150703",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150622~1150703"
-    },
-    {
-      "market": "上櫃",
-      "code": "61828",
-      "name": "合晶八",
-      "start_date": "1150622",
-      "end_date": "1150703",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150622~1150703"
-    },
-    {
-      "market": "上櫃",
-      "code": "6488",
-      "name": "環球晶",
-      "start_date": "1150622",
-      "end_date": "1150703",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150622~1150703"
     }
   ]
 }
