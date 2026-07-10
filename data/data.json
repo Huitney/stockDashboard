@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09 14:58:50",
-  "disposition_count": 29,
+  "last_updated": "2026-07-10 14:26:31",
+  "disposition_count": 26,
   "disposition_list": [
     {
       "market": "上櫃",
@@ -251,36 +251,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150626~1150709"
-    },
-    {
-      "market": "上櫃",
-      "code": "3675",
-      "name": "德微",
-      "start_date": "1150625",
-      "end_date": "1150708",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150625~1150708"
-    },
-    {
-      "market": "上櫃",
-      "code": "49231",
-      "name": "力士一",
-      "start_date": "1150625",
-      "end_date": "1150708",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150625~1150708"
-    },
-    {
-      "market": "上櫃",
-      "code": "7712",
-      "name": "博盛半導體",
-      "start_date": "1150625",
-      "end_date": "1150708",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150625~1150708"
     },
     {
       "market": "上櫃",
