@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-15 13:43:23",
-  "disposition_count": 22,
+  "last_updated": "2026-07-16 13:50:29",
+  "disposition_count": 24,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "6173",
+      "name": "信昌電",
+      "start_date": "1150717",
+      "end_date": "1150730",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150717~1150730"
+    },
+    {
+      "market": "上櫃",
+      "code": "6907",
+      "name": "雅特力-KY",
+      "start_date": "1150717",
+      "end_date": "1150730",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1150717~1150730"
+    },
+    {
+      "market": "上櫃",
+      "code": "7714",
+      "name": "創泓科技",
+      "start_date": "1150717",
+      "end_date": "1150730",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150717~1150730"
+    },
     {
       "market": "上櫃",
       "code": "8096",
@@ -211,16 +241,6 @@
       "condition": "櫃買中心公告",
       "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
       "full_period": "1150703~1150716"
-    },
-    {
-      "market": "上櫃",
-      "code": "3230",
-      "name": "錦明",
-      "start_date": "1150701",
-      "end_date": "1150714",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150701~1150714"
     }
   ]
 }
