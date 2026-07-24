@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-23 13:58:52",
+  "last_updated": "2026-07-24 13:45:20",
   "disposition_count": 32,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "49231",
+      "name": "力士一",
+      "start_date": "1150727",
+      "end_date": "1150807",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150727~1150807"
+    },
+    {
+      "market": "上櫃",
+      "code": "76101",
+      "name": "聯友金屬一創",
+      "start_date": "1150727",
+      "end_date": "1150807",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150727~1150807"
+    },
+    {
+      "market": "上櫃",
+      "code": "8291",
+      "name": "尚茂",
+      "start_date": "1150727",
+      "end_date": "1150807",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150727~1150807"
+    },
     {
       "market": "上櫃",
       "code": "31672",
@@ -291,36 +321,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150710~1150723"
-    },
-    {
-      "market": "上櫃",
-      "code": "4707",
-      "name": "磐亞",
-      "start_date": "1150709",
-      "end_date": "1150722",
-      "condition": "櫃買中心公告",
-      "details": "最近10個營業日內有6個營業日",
-      "full_period": "1150709~1150722"
-    },
-    {
-      "market": "上櫃",
-      "code": "6174",
-      "name": "安碁",
-      "start_date": "1150709",
-      "end_date": "1150722",
-      "condition": "櫃買中心公告",
-      "details": "最近10個營業日內有6個營業日",
-      "full_period": "1150709~1150722"
-    },
-    {
-      "market": "上櫃",
-      "code": "708915",
-      "name": "安葆統一75購01",
-      "start_date": "1150709",
-      "end_date": "1150722",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150709~1150722"
     }
   ]
 }
