@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25 13:25:47",
+  "last_updated": "2026-07-26 13:21:31",
   "market_indices": {
     "台股": {
       "symbol": "^TWII",
@@ -8,7 +8,7 @@
       "price_change": -1195.97,
       "price_change_percent": "-2.67%",
       "status_signal": "🔻",
-      "last_trade_time": "2026-07-25 13:25:46"
+      "last_trade_time": "2026-07-26 13:21:30"
     },
     "美股": {
       "symbol": "NQ=F",
@@ -17,7 +17,7 @@
       "price_change": -338.5,
       "price_change_percent": "-1.18%",
       "status_signal": "🔻",
-      "last_trade_time": "2026-07-25 13:25:46"
+      "last_trade_time": "2026-07-26 13:21:30"
     },
     "日股": {
       "symbol": "^N225",
@@ -26,7 +26,7 @@
       "price_change": -1811.45,
       "price_change_percent": "-2.73%",
       "status_signal": "🔻",
-      "last_trade_time": "2026-07-25 13:25:47"
+      "last_trade_time": "2026-07-26 13:21:30"
     },
     "韓股": {
       "symbol": "^KS11",
@@ -35,7 +35,7 @@
       "price_change": -406.27,
       "price_change_percent": "-5.72%",
       "status_signal": "🔻",
-      "last_trade_time": "2026-07-25 13:25:47"
+      "last_trade_time": "2026-07-26 13:21:31"
     }
   }
 }
