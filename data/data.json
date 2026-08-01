@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31 14:06:01",
-  "disposition_count": 42,
+  "last_updated": "2026-08-01 13:20:08",
+  "disposition_count": 39,
   "disposition_list": [
     {
       "market": "上櫃",
@@ -391,36 +391,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150720~1150731"
-    },
-    {
-      "market": "上櫃",
-      "code": "6173",
-      "name": "信昌電",
-      "start_date": "1150717",
-      "end_date": "1150730",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150717~1150730"
-    },
-    {
-      "market": "上櫃",
-      "code": "6907",
-      "name": "雅特力-KY",
-      "start_date": "1150717",
-      "end_date": "1150730",
-      "condition": "櫃買中心公告",
-      "details": "最近10個營業日內有6個營業日",
-      "full_period": "1150717~1150730"
-    },
-    {
-      "market": "上櫃",
-      "code": "7714",
-      "name": "創泓科技",
-      "start_date": "1150717",
-      "end_date": "1150730",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150717~1150730"
     }
   ]
 }
