@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-02 13:20:17",
-  "disposition_count": 39,
+  "last_updated": "2026-08-03 14:38:23",
+  "disposition_count": 40,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "4556",
+      "name": "旭然",
+      "start_date": "1150804",
+      "end_date": "1150817",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150804~1150817"
+    },
     {
       "market": "上櫃",
       "code": "3624",
