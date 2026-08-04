@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-03 14:38:23",
-  "disposition_count": 40,
+  "last_updated": "2026-08-04 14:10:40",
+  "disposition_count": 42,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "3362",
+      "name": "先進光",
+      "start_date": "1150805",
+      "end_date": "1150820",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日及沖銷標準",
+      "full_period": "1150805~1150820"
+    },
+    {
+      "market": "上櫃",
+      "code": "33621",
+      "name": "先進光一",
+      "start_date": "1150805",
+      "end_date": "1150820",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150805~1150820"
+    },
+    {
+      "market": "上櫃",
+      "code": "45421",
+      "name": "科嶠一",
+      "start_date": "1150805",
+      "end_date": "1150818",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150805~1150818"
+    },
     {
       "market": "上櫃",
       "code": "4556",
@@ -391,16 +421,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150721~1150803"
-    },
-    {
-      "market": "上櫃",
-      "code": "8383",
-      "name": "千附",
-      "start_date": "1150720",
-      "end_date": "1150731",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150720~1150731"
     }
   ]
 }
