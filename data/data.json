@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04 14:10:40",
-  "disposition_count": 42,
+  "last_updated": "2026-08-05 14:08:37",
+  "disposition_count": 41,
   "disposition_list": [
     {
       "market": "上櫃",
@@ -411,16 +411,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150722~1150804"
-    },
-    {
-      "market": "上櫃",
-      "code": "4139",
-      "name": "馬光-KY",
-      "start_date": "1150721",
-      "end_date": "1150803",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150721~1150803"
     }
   ]
 }
