@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05 14:08:37",
-  "disposition_count": 41,
+  "last_updated": "2026-08-06 14:08:22",
+  "disposition_count": 34,
   "disposition_list": [
     {
       "market": "上櫃",
@@ -341,76 +341,6 @@
       "condition": "櫃買中心公告",
       "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
       "full_period": "1150723~1150805"
-    },
-    {
-      "market": "上櫃",
-      "code": "3288",
-      "name": "點晶",
-      "start_date": "1150722",
-      "end_date": "1150804",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150722~1150804"
-    },
-    {
-      "market": "上櫃",
-      "code": "3624",
-      "name": "光頡",
-      "start_date": "1150722",
-      "end_date": "1150804",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150722~1150804"
-    },
-    {
-      "market": "上櫃",
-      "code": "3675",
-      "name": "德微",
-      "start_date": "1150722",
-      "end_date": "1150804",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150722~1150804"
-    },
-    {
-      "market": "上櫃",
-      "code": "6173",
-      "name": "信昌電",
-      "start_date": "1150722",
-      "end_date": "1150804",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150722~1150804"
-    },
-    {
-      "market": "上櫃",
-      "code": "6683",
-      "name": "雍智科技",
-      "start_date": "1150722",
-      "end_date": "1150804",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150722~1150804"
-    },
-    {
-      "market": "上櫃",
-      "code": "6727",
-      "name": "亞泰金屬",
-      "start_date": "1150722",
-      "end_date": "1150804",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150722~1150804"
-    },
-    {
-      "market": "上櫃",
-      "code": "707085",
-      "name": "頎邦統一66購01",
-      "start_date": "1150722",
-      "end_date": "1150804",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150722~1150804"
     }
   ]
 }
