@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-08-06 14:08:22",
-  "disposition_count": 34,
+  "last_updated": "2026-08-07 13:02:14",
+  "disposition_count": 36,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "24552",
+      "name": "全新二",
+      "start_date": "1150810",
+      "end_date": "1150814",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150810~1150814"
+    },
+    {
+      "market": "上櫃",
+      "code": "24553",
+      "name": "全新三",
+      "start_date": "1150810",
+      "end_date": "1150814",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150810~1150814"
+    },
+    {
+      "market": "上櫃",
+      "code": "30371",
+      "name": "欣興一",
+      "start_date": "1150810",
+      "end_date": "1150814",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150810~1150814"
+    },
+    {
+      "market": "上櫃",
+      "code": "6274",
+      "name": "台燿",
+      "start_date": "1150810",
+      "end_date": "1150814",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150810~1150814"
+    },
     {
       "market": "上櫃",
       "code": "3362",
@@ -321,26 +361,6 @@
       "condition": "櫃買中心公告",
       "details": "連續3個營業日及沖銷標準",
       "full_period": "1150724~1150810"
-    },
-    {
-      "market": "上櫃",
-      "code": "6217",
-      "name": "中探針",
-      "start_date": "1150723",
-      "end_date": "1150805",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150723~1150805"
-    },
-    {
-      "market": "上櫃",
-      "code": "80282",
-      "name": "昇陽半導體二",
-      "start_date": "1150723",
-      "end_date": "1150805",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150723~1150805"
     }
   ]
 }
