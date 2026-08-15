@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14 13:05:34",
-  "disposition_count": 41,
+  "last_updated": "2026-08-15 12:36:25",
+  "disposition_count": 36,
   "disposition_list": [
     {
       "market": "上櫃",
@@ -321,56 +321,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150803~1150814"
-    },
-    {
-      "market": "上櫃",
-      "code": "31672",
-      "name": "大量二",
-      "start_date": "1150731",
-      "end_date": "1150813",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150731~1150813"
-    },
-    {
-      "market": "上櫃",
-      "code": "45421",
-      "name": "科嶠一",
-      "start_date": "1150731",
-      "end_date": "1150813",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150731~1150813"
-    },
-    {
-      "market": "上櫃",
-      "code": "6217",
-      "name": "中探針",
-      "start_date": "1150731",
-      "end_date": "1150813",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150731~1150813"
-    },
-    {
-      "market": "上櫃",
-      "code": "729185",
-      "name": "華星光統一59購03",
-      "start_date": "1150731",
-      "end_date": "1150813",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150731~1150813"
-    },
-    {
-      "market": "上櫃",
-      "code": "76101",
-      "name": "聯友金屬一創",
-      "start_date": "1150731",
-      "end_date": "1150813",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150731~1150813"
     },
     {
       "market": "上櫃",
