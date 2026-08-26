@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-08-25 12:45:44",
-  "disposition_count": 16,
+  "last_updated": "2026-08-26 12:51:29",
+  "disposition_count": 22,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "24867",
+      "name": "一詮七",
+      "start_date": "1150827",
+      "end_date": "1150902",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150827~1150902"
+    },
+    {
+      "market": "上櫃",
+      "code": "3362",
+      "name": "先進光",
+      "start_date": "1150827",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日及沖銷標準",
+      "full_period": "1150827~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "33621",
+      "name": "先進光一",
+      "start_date": "1150827",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150827~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "5314",
+      "name": "世紀*",
+      "start_date": "1150827",
+      "end_date": "1150902",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150827~1150902"
+    },
+    {
+      "market": "上櫃",
+      "code": "629010",
+      "name": "良維十",
+      "start_date": "1150827",
+      "end_date": "1150902",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150827~1150902"
+    },
+    {
+      "market": "上櫃",
+      "code": "702281",
+      "name": "精測元大5C購01",
+      "start_date": "1150827",
+      "end_date": "1150902",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150827~1150902"
+    },
+    {
+      "market": "上櫃",
+      "code": "706967",
+      "name": "世紀*凱基5A購01",
+      "start_date": "1150827",
+      "end_date": "1150902",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150827~1150902"
+    },
     {
       "market": "上櫃",
       "code": "3234",
@@ -151,16 +221,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150820~1150826"
-    },
-    {
-      "market": "上櫃",
-      "code": "3498",
-      "name": "陽程",
-      "start_date": "1150819",
-      "end_date": "1150825",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150819~1150825"
     }
   ]
 }
