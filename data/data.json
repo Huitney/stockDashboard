@@ -1,5 +1,266 @@
 {
-  "last_updated": "2026-08-27 21:51:29",
-  "disposition_count": 0,
-  "disposition_list": []
+  "last_updated": "2026-08-28 21:45:35",
+  "disposition_count": 26,
+  "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "3163",
+      "name": "波若威",
+      "start_date": "1150831",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1150831~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "3441",
+      "name": "聯一光",
+      "start_date": "1150831",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150831~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "4188",
+      "name": "安克",
+      "start_date": "1150831",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150831~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "6103",
+      "name": "合邦",
+      "start_date": "1150831",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150831~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "4979",
+      "name": "華星光",
+      "start_date": "1150828",
+      "end_date": "1150903",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1150828~1150903"
+    },
+    {
+      "market": "上櫃",
+      "code": "49793",
+      "name": "華星光三",
+      "start_date": "1150828",
+      "end_date": "1150903",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150828~1150903"
+    },
+    {
+      "market": "上櫃",
+      "code": "49794",
+      "name": "華星光四",
+      "start_date": "1150828",
+      "end_date": "1150903",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150828~1150903"
+    },
+    {
+      "market": "上櫃",
+      "code": "24867",
+      "name": "一詮七",
+      "start_date": "1150827",
+      "end_date": "1150902",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150827~1150902"
+    },
+    {
+      "market": "上櫃",
+      "code": "3362",
+      "name": "先進光",
+      "start_date": "1150827",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日及沖銷標準",
+      "full_period": "1150827~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "33621",
+      "name": "先進光一",
+      "start_date": "1150827",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150827~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "5314",
+      "name": "世紀*",
+      "start_date": "1150827",
+      "end_date": "1150902",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150827~1150902"
+    },
+    {
+      "market": "上櫃",
+      "code": "629010",
+      "name": "良維十",
+      "start_date": "1150827",
+      "end_date": "1150902",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150827~1150902"
+    },
+    {
+      "market": "上櫃",
+      "code": "702281",
+      "name": "精測元大5C購01",
+      "start_date": "1150827",
+      "end_date": "1150902",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150827~1150902"
+    },
+    {
+      "market": "上櫃",
+      "code": "706967",
+      "name": "世紀*凱基5A購01",
+      "start_date": "1150827",
+      "end_date": "1150902",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150827~1150902"
+    },
+    {
+      "market": "上櫃",
+      "code": "3234",
+      "name": "光環",
+      "start_date": "1150826",
+      "end_date": "1150901",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1150826~1150901"
+    },
+    {
+      "market": "上櫃",
+      "code": "706991",
+      "name": "世紀*元大5A購01",
+      "start_date": "1150826",
+      "end_date": "1150901",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150826~1150901"
+    },
+    {
+      "market": "上櫃",
+      "code": "3625",
+      "name": "西勝",
+      "start_date": "1150825",
+      "end_date": "1150831",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150825~1150831"
+    },
+    {
+      "market": "上櫃",
+      "code": "4304",
+      "name": "勝昱",
+      "start_date": "1150825",
+      "end_date": "1150831",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150825~1150831"
+    },
+    {
+      "market": "上櫃",
+      "code": "4971",
+      "name": "IET-KY",
+      "start_date": "1150825",
+      "end_date": "1150831",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1150825~1150831"
+    },
+    {
+      "market": "上櫃",
+      "code": "24552",
+      "name": "全新二",
+      "start_date": "1150824",
+      "end_date": "1150828",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150824~1150828"
+    },
+    {
+      "market": "上櫃",
+      "code": "24553",
+      "name": "全新三",
+      "start_date": "1150824",
+      "end_date": "1150828",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150824~1150828"
+    },
+    {
+      "market": "上櫃",
+      "code": "30811",
+      "name": "聯亞一",
+      "start_date": "1150824",
+      "end_date": "1150828",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150824~1150828"
+    },
+    {
+      "market": "上櫃",
+      "code": "3498",
+      "name": "陽程",
+      "start_date": "1150824",
+      "end_date": "1150828",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150824~1150828"
+    },
+    {
+      "market": "上櫃",
+      "code": "5314",
+      "name": "世紀*",
+      "start_date": "1150824",
+      "end_date": "1150828",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150824~1150828"
+    },
+    {
+      "market": "上櫃",
+      "code": "5321",
+      "name": "美而快",
+      "start_date": "1150824",
+      "end_date": "1150828",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1150824~1150828"
+    },
+    {
+      "market": "上櫃",
+      "code": "53211",
+      "name": "美而快一",
+      "start_date": "1150824",
+      "end_date": "1150828",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150824~1150828"
+    }
+  ]
 }
