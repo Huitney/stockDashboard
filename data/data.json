@@ -1,47 +1,7 @@
 {
-  "last_updated": "2026-08-28 21:45:35",
-  "disposition_count": 26,
+  "last_updated": "2026-08-29 16:17:02",
+  "disposition_count": 22,
   "disposition_list": [
-    {
-      "market": "上櫃",
-      "code": "3163",
-      "name": "波若威",
-      "start_date": "1150831",
-      "end_date": "1150904",
-      "condition": "櫃買中心公告",
-      "details": "連續5個營業日",
-      "full_period": "1150831~1150904"
-    },
-    {
-      "market": "上櫃",
-      "code": "3441",
-      "name": "聯一光",
-      "start_date": "1150831",
-      "end_date": "1150904",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150831~1150904"
-    },
-    {
-      "market": "上櫃",
-      "code": "4188",
-      "name": "安克",
-      "start_date": "1150831",
-      "end_date": "1150904",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150831~1150904"
-    },
-    {
-      "market": "上櫃",
-      "code": "6103",
-      "name": "合邦",
-      "start_date": "1150831",
-      "end_date": "1150904",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150831~1150904"
-    },
     {
       "market": "上櫃",
       "code": "4979",
