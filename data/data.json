@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-08-30 16:08:39",
-  "disposition_count": 22,
+  "last_updated": "2026-08-31 18:50:38",
+  "disposition_count": 21,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "4939",
+      "name": "亞電",
+      "start_date": "1150901",
+      "end_date": "1150909",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日及沖銷標準",
+      "full_period": "1150901~1150909"
+    },
+    {
+      "market": "上櫃",
+      "code": "5314",
+      "name": "世紀*",
+      "start_date": "1150901",
+      "end_date": "1150907",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150901~1150907"
+    },
+    {
+      "market": "上櫃",
+      "code": "3163",
+      "name": "波若威",
+      "start_date": "1150831",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1150831~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "3441",
+      "name": "聯一光",
+      "start_date": "1150831",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150831~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "4188",
+      "name": "安克",
+      "start_date": "1150831",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150831~1150904"
+    },
+    {
+      "market": "上櫃",
+      "code": "6103",
+      "name": "合邦",
+      "start_date": "1150831",
+      "end_date": "1150904",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150831~1150904"
+    },
     {
       "market": "上櫃",
       "code": "4979",
@@ -151,76 +211,6 @@
       "condition": "櫃買中心公告",
       "details": "連續5個營業日",
       "full_period": "1150825~1150831"
-    },
-    {
-      "market": "上櫃",
-      "code": "24552",
-      "name": "全新二",
-      "start_date": "1150824",
-      "end_date": "1150828",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150824~1150828"
-    },
-    {
-      "market": "上櫃",
-      "code": "24553",
-      "name": "全新三",
-      "start_date": "1150824",
-      "end_date": "1150828",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150824~1150828"
-    },
-    {
-      "market": "上櫃",
-      "code": "30811",
-      "name": "聯亞一",
-      "start_date": "1150824",
-      "end_date": "1150828",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150824~1150828"
-    },
-    {
-      "market": "上櫃",
-      "code": "3498",
-      "name": "陽程",
-      "start_date": "1150824",
-      "end_date": "1150828",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150824~1150828"
-    },
-    {
-      "market": "上櫃",
-      "code": "5314",
-      "name": "世紀*",
-      "start_date": "1150824",
-      "end_date": "1150828",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150824~1150828"
-    },
-    {
-      "market": "上櫃",
-      "code": "5321",
-      "name": "美而快",
-      "start_date": "1150824",
-      "end_date": "1150828",
-      "condition": "櫃買中心公告",
-      "details": "最近10個營業日內有6個營業日",
-      "full_period": "1150824~1150828"
-    },
-    {
-      "market": "上櫃",
-      "code": "53211",
-      "name": "美而快一",
-      "start_date": "1150824",
-      "end_date": "1150828",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150824~1150828"
     }
   ]
 }
