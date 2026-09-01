@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-31 18:50:38",
+  "last_updated": "2026-09-01 16:09:02",
   "disposition_count": 21,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "3374",
+      "name": "精材",
+      "start_date": "1150902",
+      "end_date": "1150910",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日及沖銷標準",
+      "full_period": "1150902~1150910"
+    },
+    {
+      "market": "上櫃",
+      "code": "3629",
+      "name": "地心引力",
+      "start_date": "1150902",
+      "end_date": "1150908",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150902~1150908"
+    },
+    {
+      "market": "上櫃",
+      "code": "8358",
+      "name": "金居",
+      "start_date": "1150902",
+      "end_date": "1150910",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日及沖銷標準",
+      "full_period": "1150902~1150910"
+    },
     {
       "market": "上櫃",
       "code": "4939",
@@ -181,36 +211,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150826~1150901"
-    },
-    {
-      "market": "上櫃",
-      "code": "3625",
-      "name": "西勝",
-      "start_date": "1150825",
-      "end_date": "1150831",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150825~1150831"
-    },
-    {
-      "market": "上櫃",
-      "code": "4304",
-      "name": "勝昱",
-      "start_date": "1150825",
-      "end_date": "1150831",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150825~1150831"
-    },
-    {
-      "market": "上櫃",
-      "code": "4971",
-      "name": "IET-KY",
-      "start_date": "1150825",
-      "end_date": "1150831",
-      "condition": "櫃買中心公告",
-      "details": "連續5個營業日",
-      "full_period": "1150825~1150831"
     }
   ]
 }
