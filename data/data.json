@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-09-01 16:09:02",
-  "disposition_count": 21,
+  "last_updated": "2026-09-02 16:02:57",
+  "disposition_count": 24,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "3324",
+      "name": "雙鴻",
+      "start_date": "1150903",
+      "end_date": "1150909",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150903~1150909"
+    },
+    {
+      "market": "上櫃",
+      "code": "33245",
+      "name": "雙鴻五",
+      "start_date": "1150903",
+      "end_date": "1150909",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150903~1150909"
+    },
+    {
+      "market": "上櫃",
+      "code": "33246",
+      "name": "雙鴻六",
+      "start_date": "1150903",
+      "end_date": "1150909",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150903~1150909"
+    },
+    {
+      "market": "上櫃",
+      "code": "33247",
+      "name": "雙鴻七",
+      "start_date": "1150903",
+      "end_date": "1150909",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150903~1150909"
+    },
+    {
+      "market": "上櫃",
+      "code": "4908",
+      "name": "前鼎",
+      "start_date": "1150903",
+      "end_date": "1150909",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150903~1150909"
+    },
     {
       "market": "上櫃",
       "code": "3374",
@@ -191,26 +241,6 @@
       "condition": "櫃買中心公告",
       "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
       "full_period": "1150827~1150902"
-    },
-    {
-      "market": "上櫃",
-      "code": "3234",
-      "name": "光環",
-      "start_date": "1150826",
-      "end_date": "1150901",
-      "condition": "櫃買中心公告",
-      "details": "最近10個營業日內有6個營業日",
-      "full_period": "1150826~1150901"
-    },
-    {
-      "market": "上櫃",
-      "code": "706991",
-      "name": "世紀*元大5A購01",
-      "start_date": "1150826",
-      "end_date": "1150901",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150826~1150901"
     }
   ]
 }
