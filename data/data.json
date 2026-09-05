@@ -1,37 +1,7 @@
 {
-  "last_updated": "2026-09-04 15:50:53",
-  "disposition_count": 21,
+  "last_updated": "2026-09-05 14:40:59",
+  "disposition_count": 18,
   "disposition_list": [
-    {
-      "market": "上櫃",
-      "code": "24552",
-      "name": "全新二",
-      "start_date": "1150907",
-      "end_date": "1150915",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150907~1150915"
-    },
-    {
-      "market": "上櫃",
-      "code": "24553",
-      "name": "全新三",
-      "start_date": "1150907",
-      "end_date": "1150915",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150907~1150915"
-    },
-    {
-      "market": "上櫃",
-      "code": "704556",
-      "name": "力旺凱基5A購01",
-      "start_date": "1150907",
-      "end_date": "1150911",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150907~1150911"
-    },
     {
       "market": "上櫃",
       "code": "3664",
