@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-09-09 16:00:44",
-  "disposition_count": 25,
+  "last_updated": "2026-09-10 15:54:43",
+  "disposition_count": 26,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "4979",
+      "name": "華星光",
+      "start_date": "1150911",
+      "end_date": "1150917",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1150911~1150917"
+    },
+    {
+      "market": "上櫃",
+      "code": "49793",
+      "name": "華星光三",
+      "start_date": "1150911",
+      "end_date": "1150917",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150911~1150917"
+    },
+    {
+      "market": "上櫃",
+      "code": "49794",
+      "name": "華星光四",
+      "start_date": "1150911",
+      "end_date": "1150917",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150911~1150917"
+    },
+    {
+      "market": "上櫃",
+      "code": "6538",
+      "name": "倉和",
+      "start_date": "1150911",
+      "end_date": "1150917",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150911~1150917"
+    },
+    {
+      "market": "上櫃",
+      "code": "65381",
+      "name": "倉和一",
+      "start_date": "1150911",
+      "end_date": "1150917",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150911~1150917"
+    },
+    {
+      "market": "上櫃",
+      "code": "710655",
+      "name": "世紀*群益62購01",
+      "start_date": "1150911",
+      "end_date": "1150917",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150911~1150917"
+    },
+    {
+      "market": "上櫃",
+      "code": "7772",
+      "name": "耀穎",
+      "start_date": "1150911",
+      "end_date": "1150917",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150911~1150917"
+    },
     {
       "market": "上櫃",
       "code": "4304",
@@ -174,56 +244,6 @@
     },
     {
       "market": "上櫃",
-      "code": "3324",
-      "name": "雙鴻",
-      "start_date": "1150903",
-      "end_date": "1150909",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150903~1150909"
-    },
-    {
-      "market": "上櫃",
-      "code": "33245",
-      "name": "雙鴻五",
-      "start_date": "1150903",
-      "end_date": "1150909",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150903~1150909"
-    },
-    {
-      "market": "上櫃",
-      "code": "33246",
-      "name": "雙鴻六",
-      "start_date": "1150903",
-      "end_date": "1150909",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150903~1150909"
-    },
-    {
-      "market": "上櫃",
-      "code": "33247",
-      "name": "雙鴻七",
-      "start_date": "1150903",
-      "end_date": "1150909",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150903~1150909"
-    },
-    {
-      "market": "上櫃",
-      "code": "4908",
-      "name": "前鼎",
-      "start_date": "1150903",
-      "end_date": "1150909",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150903~1150909"
-    },
-    {
-      "market": "上櫃",
       "code": "3374",
       "name": "精材",
       "start_date": "1150902",
@@ -241,16 +261,6 @@
       "condition": "櫃買中心公告",
       "details": "連續5個營業日及沖銷標準",
       "full_period": "1150902~1150910"
-    },
-    {
-      "market": "上櫃",
-      "code": "4939",
-      "name": "亞電",
-      "start_date": "1150901",
-      "end_date": "1150909",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日及沖銷標準",
-      "full_period": "1150901~1150909"
     }
   ]
 }
