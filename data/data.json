@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-20 15:32:32",
-  "disposition_count": 6,
+  "last_updated": "2026-09-21 17:55:31",
+  "disposition_count": 8,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "5314",
+      "name": "世紀*",
+      "start_date": "1150922",
+      "end_date": "1150930",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150922~1150930"
+    },
+    {
+      "market": "上櫃",
+      "code": "6221",
+      "name": "晉泰",
+      "start_date": "1150921",
+      "end_date": "1150929",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150921~1150929"
+    },
     {
       "market": "上櫃",
       "code": "3441",
