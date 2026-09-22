@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-09-21 17:55:31",
-  "disposition_count": 8,
+  "last_updated": "2026-09-22 16:23:07",
+  "disposition_count": 12,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "22211",
+      "name": "大甲一",
+      "start_date": "1150923",
+      "end_date": "1151001",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150923~1151001"
+    },
+    {
+      "market": "上櫃",
+      "code": "24552",
+      "name": "全新二",
+      "start_date": "1150923",
+      "end_date": "1151005",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150923~1151005"
+    },
+    {
+      "market": "上櫃",
+      "code": "24553",
+      "name": "全新三",
+      "start_date": "1150923",
+      "end_date": "1151005",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150923~1151005"
+    },
+    {
+      "market": "上櫃",
+      "code": "6218",
+      "name": "豪勉",
+      "start_date": "1150923",
+      "end_date": "1151005",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日及沖銷標準",
+      "full_period": "1150923~1151005"
+    },
+    {
+      "market": "上櫃",
+      "code": "6945",
+      "name": "圓祥生技",
+      "start_date": "1150923",
+      "end_date": "1151001",
+      "condition": "櫃買中心公告",
+      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
+      "full_period": "1150923~1151001"
+    },
+    {
+      "market": "上櫃",
+      "code": "80212",
+      "name": "尖點二",
+      "start_date": "1150923",
+      "end_date": "1151001",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1150923~1151001"
+    },
     {
       "market": "上櫃",
       "code": "5314",
@@ -61,26 +121,6 @@
       "condition": "櫃買中心公告",
       "details": "連續5個營業日",
       "full_period": "1150918~1150924"
-    },
-    {
-      "market": "上櫃",
-      "code": "706124",
-      "name": "臺慶科國票61購01",
-      "start_date": "1150915",
-      "end_date": "1150921",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150915~1150921"
-    },
-    {
-      "market": "上櫃",
-      "code": "8227",
-      "name": "巨有科技",
-      "start_date": "1150915",
-      "end_date": "1150921",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150915~1150921"
     }
   ]
 }
