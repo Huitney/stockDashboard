@@ -1,67 +1,7 @@
 {
-  "last_updated": "2026-09-24 16:35:48",
-  "disposition_count": 23,
+  "last_updated": "2026-09-25 16:40:45",
+  "disposition_count": 17,
   "disposition_list": [
-    {
-      "market": "上櫃",
-      "code": "3374",
-      "name": "精材",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "最近10個營業日內有6個營業日",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "4542",
-      "name": "科嶠",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "4979",
-      "name": "華星光",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "連續5個營業日",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "49793",
-      "name": "華星光三",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "49794",
-      "name": "華星光四",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "708726",
-      "name": "擎亞凱基5B購03",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "因連續3個營業日達本中心作業要點第四條第一項第一款",
-      "full_period": "1150929~1151005"
-    },
     {
       "market": "上櫃",
       "code": "2221",
