@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-10-01 18:11:23",
-  "disposition_count": 28,
+  "last_updated": "2026-10-02 17:32:29",
+  "disposition_count": 29,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "30165",
+      "name": "嘉晶五",
+      "start_date": "1151005",
+      "end_date": "1151012",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151005~1151012"
+    },
+    {
+      "market": "上櫃",
+      "code": "4174",
+      "name": "浩鼎",
+      "start_date": "1151005",
+      "end_date": "1151012",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151005~1151012"
+    },
+    {
+      "market": "上櫃",
+      "code": "62075",
+      "name": "雷科五",
+      "start_date": "1151005",
+      "end_date": "1151012",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151005~1151012"
+    },
+    {
+      "market": "上櫃",
+      "code": "69571",
+      "name": "裕慶一KY",
+      "start_date": "1151005",
+      "end_date": "1151012",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151005~1151012"
+    },
     {
       "market": "上櫃",
       "code": "8084",
@@ -224,16 +264,6 @@
     },
     {
       "market": "上櫃",
-      "code": "22211",
-      "name": "大甲一",
-      "start_date": "1150923",
-      "end_date": "1151001",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1150923~1151001"
-    },
-    {
-      "market": "上櫃",
       "code": "24552",
       "name": "全新二",
       "start_date": "1150923",
@@ -261,26 +291,6 @@
       "condition": "櫃買中心公告",
       "details": "連續3個營業日及沖銷標準",
       "full_period": "1150923~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "6945",
-      "name": "圓祥生技",
-      "start_date": "1150923",
-      "end_date": "1151001",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1150923~1151001"
-    },
-    {
-      "market": "上櫃",
-      "code": "80212",
-      "name": "尖點二",
-      "start_date": "1150923",
-      "end_date": "1151001",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150923~1151001"
     }
   ]
 }
