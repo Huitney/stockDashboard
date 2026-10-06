@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-10-05 20:17:12",
-  "disposition_count": 30,
+  "last_updated": "2026-10-06 17:59:54",
+  "disposition_count": 26,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "35181",
+      "name": "柏騰一",
+      "start_date": "1151007",
+      "end_date": "1151014",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151007~1151014"
+    },
+    {
+      "market": "上櫃",
+      "code": "4556",
+      "name": "旭然",
+      "start_date": "1151007",
+      "end_date": "1151014",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151007~1151014"
+    },
+    {
+      "market": "上櫃",
+      "code": "5013",
+      "name": "強新",
+      "start_date": "1151007",
+      "end_date": "1151014",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151007~1151014"
+    },
+    {
+      "market": "上櫃",
+      "code": "705235",
+      "name": "力旺凱基5B購01",
+      "start_date": "1151007",
+      "end_date": "1151014",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151007~1151014"
+    },
+    {
+      "market": "上櫃",
+      "code": "8084",
+      "name": "巨虹",
+      "start_date": "1151007",
+      "end_date": "1151014",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151007~1151014"
+    },
     {
       "market": "上櫃",
       "code": "3455",
@@ -194,66 +244,6 @@
     },
     {
       "market": "上櫃",
-      "code": "3374",
-      "name": "精材",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "最近10個營業日內有6個營業日",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "4542",
-      "name": "科嶠",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "4979",
-      "name": "華星光",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "連續5個營業日",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "49793",
-      "name": "華星光三",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "49794",
-      "name": "華星光四",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "708726",
-      "name": "擎亞凱基5B購03",
-      "start_date": "1150929",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1150929~1151005"
-    },
-    {
-      "market": "上櫃",
       "code": "2221",
       "name": "大甲",
       "start_date": "1150924",
@@ -271,36 +261,6 @@
       "condition": "櫃買中心公告",
       "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
       "full_period": "1150924~1151006"
-    },
-    {
-      "market": "上櫃",
-      "code": "24552",
-      "name": "全新二",
-      "start_date": "1150923",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150923~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "24553",
-      "name": "全新三",
-      "start_date": "1150923",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150923~1151005"
-    },
-    {
-      "market": "上櫃",
-      "code": "6218",
-      "name": "豪勉",
-      "start_date": "1150923",
-      "end_date": "1151005",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日及沖銷標準",
-      "full_period": "1150923~1151005"
     }
   ]
 }
