@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-10-06 17:59:54",
-  "disposition_count": 26,
+  "last_updated": "2026-10-07 18:31:33",
+  "disposition_count": 28,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "3441",
+      "name": "聯一光",
+      "start_date": "1151008",
+      "end_date": "1151019",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日及沖銷標準",
+      "full_period": "1151008~1151019"
+    },
+    {
+      "market": "上櫃",
+      "code": "4174",
+      "name": "浩鼎",
+      "start_date": "1151008",
+      "end_date": "1151015",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151008~1151015"
+    },
+    {
+      "market": "上櫃",
+      "code": "4760",
+      "name": "勤凱",
+      "start_date": "1151008",
+      "end_date": "1151015",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151008~1151015"
+    },
+    {
+      "market": "上櫃",
+      "code": "47602",
+      "name": "勤凱二",
+      "start_date": "1151008",
+      "end_date": "1151015",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151008~1151015"
+    },
+    {
+      "market": "上櫃",
+      "code": "5205",
+      "name": "中茂",
+      "start_date": "1151008",
+      "end_date": "1151015",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151008~1151015"
+    },
+    {
+      "market": "上櫃",
+      "code": "69571",
+      "name": "裕慶一KY",
+      "start_date": "1151008",
+      "end_date": "1151015",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151008~1151015"
+    },
+    {
+      "market": "上櫃",
+      "code": "8358",
+      "name": "金居",
+      "start_date": "1151008",
+      "end_date": "1151015",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1151008~1151015"
+    },
     {
       "market": "上櫃",
       "code": "35181",
@@ -211,56 +281,6 @@
       "condition": "櫃買中心公告",
       "details": "連續3個營業日",
       "full_period": "1151001~1151007"
-    },
-    {
-      "market": "上櫃",
-      "code": "22211",
-      "name": "大甲一",
-      "start_date": "1150930",
-      "end_date": "1151006",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1150930~1151006"
-    },
-    {
-      "market": "上櫃",
-      "code": "30165",
-      "name": "嘉晶五",
-      "start_date": "1150930",
-      "end_date": "1151006",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1150930~1151006"
-    },
-    {
-      "market": "上櫃",
-      "code": "7792",
-      "name": "安葆",
-      "start_date": "1150930",
-      "end_date": "1151006",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1150930~1151006"
-    },
-    {
-      "market": "上櫃",
-      "code": "2221",
-      "name": "大甲",
-      "start_date": "1150924",
-      "end_date": "1151006",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日及沖銷標準",
-      "full_period": "1150924~1151006"
-    },
-    {
-      "market": "上櫃",
-      "code": "22211",
-      "name": "大甲一",
-      "start_date": "1150924",
-      "end_date": "1151006",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1150924~1151006"
     }
   ]
 }
