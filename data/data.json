@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-07 18:31:33",
-  "disposition_count": 28,
+  "last_updated": "2026-10-08 18:29:15",
+  "disposition_count": 29,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "5475",
+      "name": "德宏",
+      "start_date": "1151012",
+      "end_date": "1151016",
+      "condition": "櫃買中心公告",
+      "details": "最近30個營業日內有12個營業日",
+      "full_period": "1151012~1151016"
+    },
+    {
+      "market": "上櫃",
+      "code": "6708",
+      "name": "天擎",
+      "start_date": "1151012",
+      "end_date": "1151016",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151012~1151016"
+    },
+    {
+      "market": "上櫃",
+      "code": "80212",
+      "name": "尖點二",
+      "start_date": "1151012",
+      "end_date": "1151016",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151012~1151016"
+    },
     {
       "market": "上櫃",
       "code": "3441",
@@ -261,26 +291,6 @@
       "condition": "櫃買中心公告",
       "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
       "full_period": "1151001~1151012"
-    },
-    {
-      "market": "上櫃",
-      "code": "3219",
-      "name": "倚強科",
-      "start_date": "1151001",
-      "end_date": "1151007",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151001~1151007"
-    },
-    {
-      "market": "上櫃",
-      "code": "32191",
-      "name": "倚強科一",
-      "start_date": "1151001",
-      "end_date": "1151007",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151001~1151007"
     }
   ]
 }
