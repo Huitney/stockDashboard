@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-10-26 18:20:09",
-  "disposition_count": 13,
+  "last_updated": "2026-10-27 17:35:27",
+  "disposition_count": 11,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "3354",
+      "name": "律勝",
+      "start_date": "1151028",
+      "end_date": "1151103",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151028~1151103"
+    },
+    {
+      "market": "上櫃",
+      "code": "5475",
+      "name": "德宏",
+      "start_date": "1151028",
+      "end_date": "1151103",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1151028~1151103"
+    },
+    {
+      "market": "上櫃",
+      "code": "6751",
+      "name": "智聯服務",
+      "start_date": "1151028",
+      "end_date": "1151103",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151028~1151103"
+    },
+    {
+      "market": "上櫃",
+      "code": "6925",
+      "name": "意藍",
+      "start_date": "1151028",
+      "end_date": "1151103",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151028~1151103"
+    },
+    {
+      "market": "上櫃",
+      "code": "4542",
+      "name": "科嶠",
+      "start_date": "1151023",
+      "end_date": "1151103",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日及沖銷標準",
+      "full_period": "1151023~1151103"
+    },
+    {
+      "market": "上櫃",
+      "code": "5205",
+      "name": "中茂",
+      "start_date": "1151023",
+      "end_date": "1151030",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151023~1151030"
+    },
+    {
+      "market": "上櫃",
+      "code": "8358",
+      "name": "金居",
+      "start_date": "1151023",
+      "end_date": "1151030",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1151023~1151030"
+    },
+    {
+      "market": "上櫃",
+      "code": "8437",
+      "name": "大地-KY",
+      "start_date": "1151023",
+      "end_date": "1151030",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1151023~1151030"
+    },
     {
       "market": "上櫃",
       "code": "3287",
@@ -31,106 +111,6 @@
       "condition": "櫃買中心公告",
       "details": "連續3個營業日",
       "full_period": "1151020~1151027"
-    },
-    {
-      "market": "上櫃",
-      "code": "2221",
-      "name": "大甲",
-      "start_date": "1151019",
-      "end_date": "1151023",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151019~1151023"
-    },
-    {
-      "market": "上櫃",
-      "code": "22211",
-      "name": "大甲一",
-      "start_date": "1151019",
-      "end_date": "1151023",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151019~1151023"
-    },
-    {
-      "market": "上櫃",
-      "code": "3230",
-      "name": "錦明",
-      "start_date": "1151019",
-      "end_date": "1151023",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151019~1151023"
-    },
-    {
-      "market": "上櫃",
-      "code": "3287",
-      "name": "廣寰科",
-      "start_date": "1151019",
-      "end_date": "1151023",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151019~1151023"
-    },
-    {
-      "market": "上櫃",
-      "code": "3597",
-      "name": "映興",
-      "start_date": "1151019",
-      "end_date": "1151023",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151019~1151023"
-    },
-    {
-      "market": "上櫃",
-      "code": "4979",
-      "name": "華星光",
-      "start_date": "1151019",
-      "end_date": "1151023",
-      "condition": "櫃買中心公告",
-      "details": "最近10個營業日內有6個營業日",
-      "full_period": "1151019~1151023"
-    },
-    {
-      "market": "上櫃",
-      "code": "49793",
-      "name": "華星光三",
-      "start_date": "1151019",
-      "end_date": "1151023",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1151019~1151023"
-    },
-    {
-      "market": "上櫃",
-      "code": "49794",
-      "name": "華星光四",
-      "start_date": "1151019",
-      "end_date": "1151023",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1151019~1151023"
-    },
-    {
-      "market": "上櫃",
-      "code": "8111",
-      "name": "立碁",
-      "start_date": "1151016",
-      "end_date": "1151022",
-      "condition": "櫃買中心公告",
-      "details": "最近10個營業日內有6個營業日",
-      "full_period": "1151016~1151022"
-    },
-    {
-      "market": "上櫃",
-      "code": "81114",
-      "name": "立碁四",
-      "start_date": "1151016",
-      "end_date": "1151022",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1151016~1151022"
     }
   ]
 }
