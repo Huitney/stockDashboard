@@ -1,41 +1,41 @@
 {
-  "last_updated": "2026-10-26 18:20:13",
+  "last_updated": "2026-10-27 17:35:30",
   "market_indices": {
     "台股": {
       "symbol": "^TWII",
       "item_name": "台灣加權指數",
-      "current_price": 46041.43,
-      "price_change": -846.37,
-      "price_change_percent": "-1.81%",
-      "status_signal": "🔻",
-      "last_trade_time": "2026-10-26 18:20:12"
+      "current_price": 46096.23,
+      "price_change": 54.8,
+      "price_change_percent": "0.12%",
+      "status_signal": "🔺",
+      "last_trade_time": "2026-10-27 17:35:30"
     },
     "美股": {
       "symbol": "NQ=F",
       "item_name": "美股-那斯達克期貨",
-      "current_price": 29518.5,
-      "price_change": 400.75,
-      "price_change_percent": "1.38%",
+      "current_price": 29803.5,
+      "price_change": 366.25,
+      "price_change_percent": "1.24%",
       "status_signal": "🔺",
-      "last_trade_time": "2026-10-26 18:20:12"
+      "last_trade_time": "2026-10-27 17:35:30"
     },
     "日股": {
       "symbol": "^N225",
       "item_name": "日股-日經225指數",
-      "current_price": 62189.65,
-      "price_change": -503.51,
-      "price_change_percent": "-0.80%",
-      "status_signal": "🔻",
-      "last_trade_time": "2026-10-26 18:20:12"
+      "current_price": 63268.37,
+      "price_change": 1078.72,
+      "price_change_percent": "1.73%",
+      "status_signal": "🔺",
+      "last_trade_time": "2026-10-27 17:35:30"
     },
     "韓股": {
       "symbol": "^KS11",
       "item_name": "韓股-韓國綜合指數",
-      "current_price": 5469.47,
-      "price_change": -80.83,
-      "price_change_percent": "-1.46%",
-      "status_signal": "🔻",
-      "last_trade_time": "2026-10-26 18:20:13"
+      "current_price": 5638.34,
+      "price_change": 168.87,
+      "price_change_percent": "3.09%",
+      "status_signal": "🔺",
+      "last_trade_time": "2026-10-27 17:35:30"
     }
   }
 }
