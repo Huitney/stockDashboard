@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-28 17:56:49",
+  "last_updated": "2026-10-29 18:05:28",
   "disposition_count": 11,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "4577",
+      "name": "達航科技",
+      "start_date": "1151030",
+      "end_date": "1151105",
+      "condition": "櫃買中心公告",
+      "details": "連續5個營業日",
+      "full_period": "1151030~1151105"
+    },
     {
       "market": "上櫃",
       "code": "3441",
@@ -101,16 +111,6 @@
       "condition": "櫃買中心公告",
       "details": "連續3個營業日",
       "full_period": "1151022~1151029"
-    },
-    {
-      "market": "上櫃",
-      "code": "3354",
-      "name": "律勝",
-      "start_date": "1151021",
-      "end_date": "1151028",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151021~1151028"
     }
   ]
 }
