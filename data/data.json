@@ -1,47 +1,7 @@
 {
-  "last_updated": "2026-10-30 17:45:42",
-  "disposition_count": 14,
+  "last_updated": "2026-10-31 16:53:32",
+  "disposition_count": 10,
   "disposition_list": [
-    {
-      "market": "上櫃",
-      "code": "3374",
-      "name": "精材",
-      "start_date": "1151102",
-      "end_date": "1151110",
-      "condition": "櫃買中心公告",
-      "details": "連續5個營業日及沖銷標準",
-      "full_period": "1151102~1151110"
-    },
-    {
-      "market": "上櫃",
-      "code": "3691",
-      "name": "碩禾",
-      "start_date": "1151102",
-      "end_date": "1151106",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151102~1151106"
-    },
-    {
-      "market": "上櫃",
-      "code": "36913",
-      "name": "碩禾三",
-      "start_date": "1151102",
-      "end_date": "1151106",
-      "condition": "櫃買中心公告",
-      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
-      "full_period": "1151102~1151106"
-    },
-    {
-      "market": "上櫃",
-      "code": "8099",
-      "name": "大世科",
-      "start_date": "1151102",
-      "end_date": "1151106",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151102~1151106"
-    },
     {
       "market": "上櫃",
       "code": "4577",
