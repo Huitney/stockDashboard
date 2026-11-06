@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05 19:33:46",
-  "disposition_count": 9,
+  "last_updated": "2026-11-06 19:05:56",
+  "disposition_count": 8,
   "disposition_list": [
     {
       "market": "上櫃",
@@ -71,16 +71,6 @@
       "condition": "櫃買中心公告",
       "details": "連續3個營業日",
       "full_period": "1151102~1151106"
-    },
-    {
-      "market": "上櫃",
-      "code": "4577",
-      "name": "達航科技",
-      "start_date": "1151030",
-      "end_date": "1151105",
-      "condition": "櫃買中心公告",
-      "details": "連續5個營業日",
-      "full_period": "1151030~1151105"
     },
     {
       "market": "上櫃",
