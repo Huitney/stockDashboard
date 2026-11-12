@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11 19:17:20",
-  "disposition_count": 7,
+  "last_updated": "2026-11-12 19:35:57",
+  "disposition_count": 5,
   "disposition_list": [
     {
       "market": "上櫃",
@@ -51,26 +51,6 @@
       "condition": "櫃買中心公告",
       "details": "連續3個營業日",
       "full_period": "1151110~1151116"
-    },
-    {
-      "market": "上櫃",
-      "code": "8099",
-      "name": "大世科",
-      "start_date": "1151105",
-      "end_date": "1151111",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151105~1151111"
-    },
-    {
-      "market": "上櫃",
-      "code": "8272",
-      "name": "全景軟體",
-      "start_date": "1151105",
-      "end_date": "1151111",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151105~1151111"
     }
   ]
 }
