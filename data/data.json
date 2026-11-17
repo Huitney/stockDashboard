@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-11-16 21:42:01",
-  "disposition_count": 7,
+  "last_updated": "2026-11-17 20:31:02",
+  "disposition_count": 11,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "4174",
+      "name": "浩鼎",
+      "start_date": "1151118",
+      "end_date": "1151124",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151118~1151124"
+    },
+    {
+      "market": "上櫃",
+      "code": "6140",
+      "name": "訊達",
+      "start_date": "1151118",
+      "end_date": "1151124",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151118~1151124"
+    },
+    {
+      "market": "上櫃",
+      "code": "6697",
+      "name": "東捷資訊",
+      "start_date": "1151118",
+      "end_date": "1151126",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日及沖銷標準",
+      "full_period": "1151118~1151126"
+    },
+    {
+      "market": "上櫃",
+      "code": "7717",
+      "name": "萊德光電-KY",
+      "start_date": "1151118",
+      "end_date": "1151124",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151118~1151124"
+    },
+    {
+      "market": "上櫃",
+      "code": "8084",
+      "name": "巨虹",
+      "start_date": "1151118",
+      "end_date": "1151124",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151118~1151124"
+    },
     {
       "market": "上櫃",
       "code": "3441",
@@ -61,16 +111,6 @@
       "condition": "櫃買中心公告",
       "details": "連續3個營業日",
       "full_period": "1151111~1151117"
-    },
-    {
-      "market": "上櫃",
-      "code": "4542",
-      "name": "科嶠",
-      "start_date": "1151110",
-      "end_date": "1151116",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151110~1151116"
     }
   ]
 }
