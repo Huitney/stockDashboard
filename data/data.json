@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-18 20:01:58",
-  "disposition_count": 10,
+  "last_updated": "2026-11-19 20:00:26",
+  "disposition_count": 12,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "3287",
+      "name": "廣寰科",
+      "start_date": "1151120",
+      "end_date": "1151126",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151120~1151126"
+    },
+    {
+      "market": "上櫃",
+      "code": "4534",
+      "name": "慶騰",
+      "start_date": "1151120",
+      "end_date": "1151126",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151120~1151126"
+    },
+    {
+      "market": "上櫃",
+      "code": "76101",
+      "name": "聯友金屬一創",
+      "start_date": "1151120",
+      "end_date": "1151126",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151120~1151126"
+    },
     {
       "market": "上櫃",
       "code": "3491",
@@ -91,16 +121,6 @@
       "condition": "櫃買中心公告",
       "details": "連續3個營業日",
       "full_period": "1151117~1151123"
-    },
-    {
-      "market": "上櫃",
-      "code": "54642",
-      "name": "霖宏二",
-      "start_date": "1151112",
-      "end_date": "1151118",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151112~1151118"
     }
   ]
 }
