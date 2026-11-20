@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-11-19 20:00:26",
-  "disposition_count": 12,
+  "last_updated": "2026-11-20 19:39:42",
+  "disposition_count": 17,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "4577",
+      "name": "達航科技",
+      "start_date": "1151123",
+      "end_date": "1151127",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1151123~1151127"
+    },
+    {
+      "market": "上櫃",
+      "code": "6538",
+      "name": "倉和",
+      "start_date": "1151123",
+      "end_date": "1151127",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151123~1151127"
+    },
+    {
+      "market": "上櫃",
+      "code": "65381",
+      "name": "倉和一",
+      "start_date": "1151123",
+      "end_date": "1151127",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151123~1151127"
+    },
+    {
+      "market": "上櫃",
+      "code": "7584",
+      "name": "樂意",
+      "start_date": "1151123",
+      "end_date": "1151127",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151123~1151127"
+    },
+    {
+      "market": "上櫃",
+      "code": "81551",
+      "name": "博智一",
+      "start_date": "1151123",
+      "end_date": "1151127",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151123~1151127"
+    },
     {
       "market": "上櫃",
       "code": "3287",
