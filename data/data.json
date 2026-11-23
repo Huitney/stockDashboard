@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-22 19:06:21",
-  "disposition_count": 12,
+  "last_updated": "2026-11-23 23:26:54",
+  "disposition_count": 31,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "1569",
+      "name": "濱川",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "3081",
+      "name": "聯亞",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "30811",
+      "name": "聯亞一",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "30812",
+      "name": "聯亞二",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "3162",
+      "name": "精確",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "3354",
+      "name": "律勝",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "3363",
+      "name": "上詮",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "7856",
+      "name": "漢測",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "80212",
+      "name": "尖點二",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "80213",
+      "name": "尖點三",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "8042",
+      "name": "金山電",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "80426",
+      "name": "金山電六",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "89965",
+      "name": "高力五",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "89966",
+      "name": "高力六",
+      "start_date": "1151124",
+      "end_date": "1151130",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151124~1151130"
+    },
+    {
+      "market": "上櫃",
+      "code": "4577",
+      "name": "達航科技",
+      "start_date": "1151123",
+      "end_date": "1151127",
+      "condition": "櫃買中心公告",
+      "details": "最近10個營業日內有6個營業日",
+      "full_period": "1151123~1151127"
+    },
+    {
+      "market": "上櫃",
+      "code": "6538",
+      "name": "倉和",
+      "start_date": "1151123",
+      "end_date": "1151127",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151123~1151127"
+    },
+    {
+      "market": "上櫃",
+      "code": "65381",
+      "name": "倉和一",
+      "start_date": "1151123",
+      "end_date": "1151127",
+      "condition": "櫃買中心公告",
+      "details": "轉(交)換公司債之標的證券經本中心或臺灣證券交易所發布處置",
+      "full_period": "1151123~1151127"
+    },
+    {
+      "market": "上櫃",
+      "code": "7584",
+      "name": "樂意",
+      "start_date": "1151123",
+      "end_date": "1151127",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151123~1151127"
+    },
+    {
+      "market": "上櫃",
+      "code": "81551",
+      "name": "博智一",
+      "start_date": "1151123",
+      "end_date": "1151127",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151123~1151127"
+    },
     {
       "market": "上櫃",
       "code": "3287",
