@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-23 23:26:54",
-  "disposition_count": 31,
+  "last_updated": "2026-11-24 21:57:54",
+  "disposition_count": 33,
   "disposition_list": [
+    {
+      "market": "上櫃",
+      "code": "3287",
+      "name": "廣寰科",
+      "start_date": "1151125",
+      "end_date": "1151201",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151125~1151201"
+    },
+    {
+      "market": "上櫃",
+      "code": "3693",
+      "name": "營邦",
+      "start_date": "1151125",
+      "end_date": "1151201",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151125~1151201"
+    },
+    {
+      "market": "上櫃",
+      "code": "4716",
+      "name": "大立",
+      "start_date": "1151125",
+      "end_date": "1151201",
+      "condition": "櫃買中心公告",
+      "details": "連續3個營業日",
+      "full_period": "1151125~1151201"
+    },
     {
       "market": "上櫃",
       "code": "1569",
@@ -301,16 +331,6 @@
       "condition": "櫃買中心公告",
       "details": "連續5個營業日及沖銷標準",
       "full_period": "1151117~1151125"
-    },
-    {
-      "market": "上櫃",
-      "code": "6751",
-      "name": "智聯服務",
-      "start_date": "1151117",
-      "end_date": "1151123",
-      "condition": "櫃買中心公告",
-      "details": "連續3個營業日",
-      "full_period": "1151117~1151123"
     }
   ]
 }
